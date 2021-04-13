@@ -1,4 +1,4 @@
-P001,Teclado,Teclado HP,100,170,31,25,Proveedor 1,Almacén 1
+P001,Teclado,Teclado HP,100,130,31,25,Proveedor 1,Almacén 1
 P002,Impresora,Impresora L220,100,180,43,35,Proveedor 2,Almacén 2
 P003,Mouse,Mouse Iblue,100,200,57,45,Proveedor 1,Almacén 1
 P004,USB,USB 16 gb,100,200,43,41,Proveedor 1,Almacén 1
@@ -9,3 +9,4 @@ A,A,A,10,10,10,10,Proveedor 1,Almacén 1
 B,B,B,10,10,10,10,Proveedor 1,Almacén 1
 C,C,C,10,10,10,10,Proveedor 1,Almacén 1
 D,D,D,10,10,10,10,Proveedor 1,Almacén 1
+E,E,E,10,10,10,10,Proveedor 1,Almacén 1

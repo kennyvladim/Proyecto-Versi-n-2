@@ -6,3 +6,4 @@
 66666666,Jorge,Benavides,Hurtado,Calle 6,534-6666
 77777777,Pedro,Pastrana,Lugo,Calle 7,238-7777
 AA,AA,AA,AA,AA,AA
+BB,BB,BB,BB,BB,BB
